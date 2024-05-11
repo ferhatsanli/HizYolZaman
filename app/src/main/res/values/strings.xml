@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hız Yol Zaman</string>
+    <string name="strHesapla">Hesapla</string>
+    <string name="strHiz">Hiz</string>
+    <string name="strYol">Yol</string>
+    <string name="strZaman">Zaman</string>
+    <string name="strDegistir">Degistir</string>
+    <string name="strMaxHiz">Max Hiz</string>
+    <string name="strMaxYol">Max Yol</string>
+</resources>
